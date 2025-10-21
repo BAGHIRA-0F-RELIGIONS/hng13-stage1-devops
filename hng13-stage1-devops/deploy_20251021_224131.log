@@ -1,0 +1,4 @@
+[2025-10-21 22:42:50] [INFO] Current working directory: /home/bahir/auto-deploy/hng13-stage1-devops
+[2025-10-21 22:42:50] [INFO] Verifying Docker configuration files
+[2025-10-21 22:42:50] [ERROR] No Dockerfile or docker-compose.yml found in repository
+[2025-10-21 22:42:50] [ERROR] Script failed with exit code: 1
