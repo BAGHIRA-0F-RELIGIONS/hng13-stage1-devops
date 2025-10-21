@@ -196,7 +196,7 @@ clone_repository() {
 verify_dockerfile() {
     log INFO "Verifying Docker configuration files"
    
-    if [ -f "Dockerfile" ]; then
+    if [ -f "./hng13-stage1-devops/Dockerfile" ]; then
         log INFO "Dockerfile found"
         DOCKER_MODE="dockerfile"
     elif [ -f "docker-compose.yml" ] || [ -f "docker-compose.yaml" ]; then
