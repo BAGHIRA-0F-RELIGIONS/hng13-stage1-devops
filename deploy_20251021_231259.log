@@ -1,0 +1,19 @@
+[2025-10-21 23:12:59] [INFO] ===== DEPLOYMENT STARTED =====
+[2025-10-21 23:12:59] [INFO] Script version: 1.0 (POSIX-compliant)
+[2025-10-21 23:12:59] [INFO] Execution started at: Tue Oct 21 23:12:59 WAT 2025
+[2025-10-21 23:12:59] [INFO] Starting parameter collection
+[2025-10-21 23:13:13] [INFO] Repository URL collected: https://github.com/BAGHIRA-0F-RELIGIONS/hng13-stage1-devops
+[2025-10-21 23:13:24] [INFO] PAT collected
+[2025-10-21 23:13:28] [INFO] Branch set to: main
+[2025-10-21 23:13:32] [INFO] SSH username: ubuntu
+[2025-10-21 23:13:44] [INFO] Server IP: 13.222.171.214
+[2025-10-21 23:13:59] [INFO] SSH key validated: /home/bahir/My-Final.pem
+[2025-10-21 23:14:03] [INFO] Application port: 80
+[2025-10-21 23:14:03] [INFO] All parameters collected successfully
+[2025-10-21 23:14:03] [INFO] Starting repository clone
+[2025-10-21 23:14:03] [INFO] Repository name: hng13-stage1-devops
+[2025-10-21 23:14:03] [WARN] Repository directory already exists: hng13-stage1-devops
+[2025-10-21 23:14:03] [INFO] Attempting to pull latest changes
+From github.com:BAGHIRA-0F-RELIGIONS/hng13-stage1-devops
+ * branch            main       -> FETCH_HEAD
+Already up to date.
